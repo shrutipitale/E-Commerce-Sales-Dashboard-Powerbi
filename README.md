@@ -1,113 +1,100 @@
-# 🛒 E-Commerce Sales Dashboard | Business Intelligence Project
-
-An interactive **E-Commerce Sales Overview Dashboard** designed to analyze revenue performance, profitability, customer segmentation, and regional sales distribution.
-
----
+# 📊 Sales Overview Dashboard | Power BI
 
 ## 📌 Project Overview
+The **Sales Overview Dashboard** is an interactive Power BI report designed to analyze regional sales performance across multiple KPIs including Sales, Profit, and Quantity.
 
-This project provides deep insights into:
-
-- Total Sales & Profit Performance  
-- Monthly Revenue Trends  
-- Regional Sales Distribution  
-- Customer Segment Contribution  
-- Product Category Performance  
-- Shipping & Order Status Analysis  
-
-The dashboard helps businesses make **data-driven decisions** for revenue growth and profitability optimization.
+This dashboard helps management monitor:
+- Current Year (CY) vs Previous Year (PY) performance
+- Year-over-Year (YoY) growth
+- Region-wise performance
+- State-level contribution
+- Monthly trends
 
 ---
 
-## 📊 Key Metrics
+## 🖼️ Dashboard Preview
 
-- **Total Sales:** $26,474,659  
-- **Total Profit:** $2,495,874  
-- **Total Orders:** 284,209  
-- **Average Profit Margin:** 10.86%  
+### 🔹 Sales View
+<img width="1482" height="838" alt="Screenshot 2026-02-27 214012" src="https://github.com/user-attachments/assets/96c438ef-8c18-4419-89cb-cf22084538fc" />
 
----
+### 🔹 Profit View
+<img width="1489" height="839" alt="Screenshot 2026-02-27 214024" src="https://github.com/user-attachments/assets/78a61483-a086-480e-9d17-d15e8f34c5d3" />
 
-## 📈 Dashboard Features
+### 🔹 Quantity View
+<img width="1490" height="829" alt="Screenshot 2026-02-27 214036" src="https://github.com/user-attachments/assets/f5e52a04-5fdf-4603-aa09-bcd3fe9348ef" />
 
-### 1️⃣ Sales Performance Analysis
-- Monthly sales trend visualization  
-- Revenue fluctuation tracking  
-- Profitability overview  
-
-### 2️⃣ Regional Sales Analysis
-- Sales distribution by market region:
-  - Pacific Asia  
-  - Europe  
-  - LATAM  
-  - USCA  
-  - Africa  
-
-### 3️⃣ Customer Segment Insights
-- Consumer segment contribution ($13.8M+)  
-- Corporate segment analysis  
-- Home Office segment trends  
-
-### 4️⃣ Product Category Analysis
-- Top 5 Categories by Sales  
-- Bottom 5 Categories by Sales  
-- Category-level revenue comparison  
-
-### 5️⃣ Country-Level Insights
-- Top 10 countries by total sales  
-- Highest revenue from United States  
-- Strong contributions from France, Germany, Brazil, Australia  
-
-### 6️⃣ Interactive Filters
-- Order Date Timeline (Year & Quarter)  
-- Customer Segment Filter  
-- Shipping Mode Filter  
-- Order Status Filter  
+> 📌 *(Upload your screenshots inside a folder named `images` in your GitHub repo and rename them accordingly.)*
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🎯 Key Features
 
-- **Power BI / Tableau** – Data Visualization  
-- **Data Cleaning & Transformation**  
-- **Business Intelligence Reporting**  
-- **KPI & Profitability Analysis**
-
----
-
-## 🔍 Key Insights
-
-- Sales remain consistently strong throughout the year with minor dips toward year-end.  
-- Consumer segment generates the highest revenue.  
-- Europe and LATAM contribute significantly to total sales.  
-- Certain product categories contribute disproportionately to total revenue.  
-- Profit margin remains stable at ~10.8%.  
+- Dynamic Measure Selector (Sales / Profit / Quantity)
+- Year Slicer (2021–2024)
+- Region-wise KPI Cards (Central, East, South, West)
+- Monthly Trend Analysis
+- Interactive Map (Sales by State)
+- YoY Growth Comparison Table
+- Conditional Formatting for Performance Indicators
 
 ---
 
-## 💼 Business Impact
+## 🛠️ Tools & Technologies Used
 
-- Supports strategic pricing decisions  
-- Enables region-based marketing strategies  
-- Identifies high-value customer segments  
-- Helps optimize product portfolio  
-- Improves profitability monitoring  
+- **Power BI**
+- **DAX**
+- **Data Modeling**
+- **Power Query**
+- **Excel (Data Source)**
 
 ---
 
-## 📷 Dashboard Preview
+## 📈 KPIs Tracked
 
-<img width="1076" height="622" alt="Screenshot 2026-02-16 095944" src="https://github.com/user-attachments/assets/b9b2fd5b-739c-4020-8c48-1fafc966c166" />
+- Current Year Sales
+- Previous Year Sales
+- YoY Sales Growth %
+- Current Year Profit
+- YoY Profit %
+- Quantity Sold
+- Regional Performance Comparison
+
+---
+
+## 📊 Business Insights
+
+- West region shows highest overall sales contribution.
+- East region demonstrates strong YoY growth.
+- Central region profit decline requires operational review.
+- Seasonal sales spikes observed in Q4.
+
+---
 
 
 ---
 
-## 🚀 Conclusion
+## 🚀 How to Use
 
-This project demonstrates:
+1. Download the `.pbix` file
+2. Open using Power BI Desktop
+3. Use slicers to switch between measures and years
+4. Explore region & state performance
 
-- Advanced dashboard design  
-- KPI-driven business analysis  
-- Multi-dimensional sales exploration  
-- Data storytelling & insight extraction  
-- Business-focused analytical thinking  
+---
+
+## 💼 Use Case
+
+This dashboard can be used by:
+- MIS Executives
+- Sales Managers
+- Business Analysts
+- Operations Teams
+
+It enables data-driven decision-making and performance monitoring.
+
+---
+
+## 👩‍💻 Author
+
+**Shruti Pitale**  
+Power BI Developer | SQL | Data Analytics  
